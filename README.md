@@ -1,89 +1,56 @@
 # Brian Polo
 
-Cybersecurity & Artificial Intelligence student at the University of Malaga, focused on practical security, applied machine learning and systems fundamentals.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Polo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-polo-464a61338/)
-[![GitHub](https://img.shields.io/badge/GitHub-plc50-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/plc50)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Polo-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555)](https://www.linkedin.com/in/brian-polo-464a61338/)
+[![GitHub](https://img.shields.io/badge/GitHub-plc50-181717?style=flat&logo=github&logoColor=white&labelColor=555555)](https://github.com/plc50)
 
 ---
 
-## Focus
+<img align="right" width="280" alt="Coding animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- Practical cybersecurity: CTFs, web security, network security and secure programming.
-- Applied machine learning: data analysis, feature engineering and model evaluation.
-- Systems fundamentals: C, Linux, Bash, operating systems and networking.
-- Competition-driven learning through hackathons, CTFs and hands-on projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&vCenter=true&width=520&lines=Cybersecurity+%26+AI+Student;CTFs+%7C+Machine+Learning+%7C+Linux;Building+practical+security+projects)](https://git.io/typing-svg)
 
----
+### About Me
 
-## Highlights
+Cybersecurity & Artificial Intelligence student at **UMA**, focused on practical security, applied machine learning and systems fundamentals.
 
-- **2nd Place Spain** - AWS Europe GameDay, AWS User Group Malaga.
-- **2nd Place** - CTF Competition by INCIBE, HackersWeek UMA.
-- **3rd Place** - Oracle Ensena Hackathon, Oracle / University of Malaga.
-- **Honours in Machine Learning I** - University of Malaga.
-- Selected for the **42 Malaga Pool**.
+- **2nd Place Spain** - AWS Europe GameDay
+- **2nd Place** - INCIBE CTF, HackersWeek UMA
+- **3rd Place** - Oracle Ensena Hackathon
+- **Honours in Machine Learning I**
+- Selected for the **42 Malaga Pool**
 
 ---
 
-## Featured Work
-
-### Music Popularity ML Predictor
-
-Team-built machine learning project for predicting Spotify song popularity and identifying potential summer hits, developed for an Oracle hackathon challenge.
-
-- Achieved **3rd place** in the challenge.
-- Built classification and regression workflows.
-- Compared Random Forest and Gradient Boosting models.
-- Engineered domain-specific music features for popularity prediction.
-- Reported model performance with accuracy, F1-score, MAE and RMSE.
-
-Stack: Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
-
-[Repository](https://github.com/plc50/music-popularity-ml-predictor)
-
----
-
-## Tech Stack
+### Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Data & machine learning**  
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **Security & systems**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## Currently Learning
+### Featured Project
 
-- Cybersecurity and Artificial Intelligence at UMA.
-- Practical penetration testing and CTF methodology.
-- Secure programming, web security and network security.
-- Machine learning workflows and reproducible experiments.
-- Systems programming fundamentals through 42 Malaga Pool preparation.
+**[Music Popularity ML Predictor](https://github.com/plc50/music-popularity-ml-predictor)**  
+Machine learning project for predicting Spotify song popularity and potential summer hits, built for an Oracle hackathon challenge.
 
----
-
-## What I Am Building Next
-
-I am working toward a portfolio that connects cybersecurity and AI through practical projects. The next direction I want to explore is a security-focused project such as phishing URL classification, log anomaly detection or CTF writeups with reproducible notes.
+`Python` · `scikit-learn` · `pandas` · `Jupyter` · `model evaluation`
 
 ---
 
-## Contact
+### Currently
 
-If you are working on cybersecurity, machine learning, CTFs or practical AI projects, feel free to connect.
-
-- LinkedIn: [Brian Polo](https://www.linkedin.com/in/brian-polo-464a61338/)
-- GitHub: [plc50](https://github.com/plc50)
+Building a portfolio around **cybersecurity + AI**: CTF writeups, phishing detection, log analysis and reproducible ML projects.
