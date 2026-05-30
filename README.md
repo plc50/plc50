@@ -13,11 +13,9 @@
 
 Cybersecurity & Artificial Intelligence student at **UMA**, focused on practical security, applied machine learning and systems fundamentals.
 
-- **2nd Place Spain** - AWS Europe GameDay
-- **2nd Place** - INCIBE CTF, HackersWeek UMA
-- **3rd Place** - Oracle Ensena Hackathon
-- **Honours in Machine Learning I**
-- Selected for the **42 Malaga Pool**
+- Building small, practical projects around **security**, **machine learning** and **Linux**.
+- Learning through CTFs, hackathons and hands-on experimentation.
+- Currently shaping this GitHub into a clean technical portfolio.
 
 ---
 
@@ -53,4 +51,4 @@ Machine learning project for predicting Spotify song popularity and potential su
 
 ### Currently
 
-Building a portfolio around **cybersecurity + AI**: CTF writeups, phishing detection, log analysis and reproducible ML projects.
+Growing this profile step by step with cleaner repos, better documentation and practical cybersecurity + AI projects.
