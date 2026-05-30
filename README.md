@@ -40,12 +40,17 @@ Cybersecurity & Artificial Intelligence student at **UMA**, focused on practical
 
 ---
 
-### Featured Project
+### Featured Projects
 
 **[Music Popularity ML Predictor](https://github.com/plc50/music-popularity-ml-predictor)**  
 Machine learning project for predicting Spotify song popularity and potential summer hits, built for an Oracle hackathon challenge.
 
 `Python` · `scikit-learn` · `pandas` · `Jupyter` · `model evaluation`
+
+**[World Cup 2026 ML Predictor](https://github.com/plc50/worldcup-2026-ml-predictor)**  
+Leakage-safe ML pipeline for predicting international football match outcomes using historical matches, FIFA rankings and temporal validation.
+
+`Python` · `scikit-learn` · `XGBoost` · `Oracle ADB` · `TimeSeriesSplit`
 
 ---
 
