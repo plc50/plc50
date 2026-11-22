@@ -7,7 +7,6 @@ I build security and AI systems, many of them at hackathons, and I publish their
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Polo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-polo-464a61338/)
 ![Location](https://img.shields.io/badge/Málaga-Spain-555555?logo=googlemaps&logoColor=white)
-![Open to internships](https://img.shields.io/badge/open_to-cybersecurity_internships-2EA44F)
 
 🥇 **1st** Indra · 🥇 **1st of 16** Telefónica · 🥈 **2nd** AWS GameDay Europe (Spain) · 🥈 **2nd** INCIBE CTF · 🥉 **3rd** Blockchain for Good · 🥉 **3rd** Oracle
 
